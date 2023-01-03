@@ -1,0 +1,7 @@
+{
+  "title": "Kanban Talk",
+  "theme": "night",
+  "highlightTheme": "monokai-sublime",
+  "css": ["custom.css"],
+  "assetsDir": "assets"
+}
