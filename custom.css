@@ -8,3 +8,7 @@
 .reveal section img {
   border: 2px solid #eee;
 }
+
+.reveal section img.noborder {
+  border: none;
+}
