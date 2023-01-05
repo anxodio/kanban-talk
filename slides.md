@@ -67,15 +67,10 @@ Optimize flow not resources, getting things done, reduce waste, improve value
 
 ---
 
-<!-- .slide: data-transition="slide-in none" -->
+### Kanban principles
 
-#### Kanban principles
-
-| Change Management                                | Service Delivery                            |
-| ------------------------------------------------ | ------------------------------------------- |
-| Start With What You Do Now                       | Focus on Customer’s Needs and Expectations  |
-| Agree to Pursue Incremental, Evolutionary Change | Manage the Work, Not the Workers            |
-| Encourage Acts of Leadership at All Levels       | Regularly Review the Network of Services    |
+- Change Management principles
+- Service Delivery  principles
 
 Note:
 
@@ -84,119 +79,54 @@ Note:
 
 ---
 
-<!-- .slide: data-transition="none" -->
+#### Change Management principles
 
-#### Kanban principles
+- Start With What You Do Now  <!-- .element: class="fragment highlight-current-blue" -->
+- Agree to Pursue Incremental, Evolutionary Change  <!-- .element: class="fragment highlight-current-blue" -->
+- Encourage Acts of Leadership at All Levels  <!-- .element: class="fragment highlight-current-blue" -->
 
-| Change Management                                | Service Delivery                            |
-| ------------------------------------------------ | ------------------------------------------- |
-| **Start With What You Do Now**                   | Focus on Customer’s Needs and Expectations  |
-| Agree to Pursue Incremental, Evolutionary Change | Manage the Work, Not the Workers            |
-| Encourage Acts of Leadership at All Levels       | Regularly Review the Network of Services    |
 
 Note:
 
-- Flexibilitat per constuir-se sobre processos actuals
-- Reconeix processos, rols, responsabilitats actuals
-- Busca destacar problemes a resoldre i planejar solucions de forma iterativa i no disruptiva
+- Flexibilitat per constuir-se sobre processos actuals, reconeix rols i responsabilitats actuals, destacar problemes a resoldre i plantejar solucions de forma iterativa i no disruptiva
+- Canvis petits amb feedback continuu, acceptar entre tottes que mai arribarem al final, kaizen, utopia
+- No esperar a que els canvis només vinguin de lideratges actuals, espais segurs per risc i error
+
 
 ---
 
-<!-- .slide: data-transition="none" -->
+#### Service Delivery principles
 
-#### Kanban principles
+- Focus on Customer’s Needs and Expectations  <!-- .element: class="fragment highlight-current-blue" -->
+- Manage the Work, Not the Workers  <!-- .element: class="fragment highlight-current-blue" -->
+- Regularly Review the Network of Services  <!-- .element: class="fragment highlight-current-blue" -->
 
-| Change Management                                    | Service Delivery                            |
-| ---------------------------------------------------- | ------------------------------------------- |
-| Start With What You Do Now                           | Focus on Customer’s Needs and Expectations  |
-| **Agree to Pursue Incremental, Evolutionary Change** | Manage the Work, Not the Workers            |
-| Encourage Acts of Leadership at All Levels           | Regularly Review the Network of Services    |
 
 Note:
 
-- Buscar canvis petits amb feedback continuu
-- Acceptar entre totes que mai arribarem al final
-- Kaizen, utopia
+- Entregar valor a sòcies i ET nucli de l'organització, entendre i alinear necessitats i expectatives
+- Eliminar el micromanagement, Equips autogestionats al voltant de les tasques, canviem com es fan les tasques no el que fa cadascu
+- Revisar amb les usuaries com està funcionant tot, qualitat, tempos, normatives...
 
 ---
 
-<!-- .slide: data-transition="none" -->
+### Kanban practices
 
-#### Kanban principles
-
-| Change Management                                | Service Delivery                            |
-| ------------------------------------------------ | ------------------------------------------- |
-| Start With What You Do Now                       | Focus on Customer’s Needs and Expectations  |
-| Agree to Pursue Incremental, Evolutionary Change | Manage the Work, Not the Workers            |
-| **Encourage Acts of Leadership at All Levels**   | Regularly Review the Network of Services    |
-
-Note:
-
-- No esperar a que els canvis només vinguin de lideratges existents
-- Crear espais segurs pel risc i l'error
-
----
-
-<!-- .slide: data-transition="none" -->
-
-#### Kanban principles
-
-| Change Management                                | Service Delivery                                |
-| ------------------------------------------------ | ----------------------------------------------- |
-| Start With What You Do Now                       | **Focus on Customer’s Needs and Expectations**  |
-| Agree to Pursue Incremental, Evolutionary Change | Manage the Work, Not the Workers                |
-| Encourage Acts of Leadership at All Levels       | Regularly Review the Network of Services        |
+1. Visualize Workflow
+2. Limit Work In Progress (WIP)
+3. Manage flow
+4. Make policies explicit
+5. Implement Feedback Loops
+6. Improve Collaboratively, Improve Experimentally
 
 Note:
-
-- Entregar valor a les sòcies i ET hauria de ser el nucli de l'organització
-- Necessitem entendre i alinear necessitats i expectatives
-
----
-
-<!-- .slide: data-transition="none" -->
-
-#### Kanban principles
-
-| Change Management                                | Service Delivery                            |
-| ------------------------------------------------ | ------------------------------------------- |
-| Start With What You Do Now                       | Focus on Customer’s Needs and Expectations  |
-| Agree to Pursue Incremental, Evolutionary Change | **Manage the Work, Not the Workers**        |
-| Encourage Acts of Leadership at All Levels       | Regularly Review the Network of Services    |
-
-Note:
-
-- Eliminar el micromanagement (aquí aplica?)
-- Equips autogestionats que s'organitzen al voltant de les tasques
-- Per canviar el que fem canviem com es fan les tasques no el que fa cadascu
-
----
-
-<!-- .slide: data-transition="none" -->
-
-#### Kanban principles
-
-| Change Management                                | Service Delivery                             |
-| ------------------------------------------------ | -------------------------------------------- |
-| Start With What You Do Now                       | Focus on Customer’s Needs and Expectations   |
-| Agree to Pursue Incremental, Evolutionary Change | Manage the Work, Not the Workers             |
-| Encourage Acts of Leadership at All Levels       | **Regularly Review the Network of Services** |
-
-Note:
-
-- Revisar amb les usuaries com està funcionant tot
-- Qualitat, tempos, normatives...
+- 6 pràctiques core per una bona implementació
+- Han d'estar pressents però és un procés evolutiu
+- 40% organitzacions encara diuen estar madurant
 
 ---
 
 ### WIP
-
-Fonts
-
-- https://kanbanize.com/kanban-resources/getting-started/what-is-kanban
-- https://kanbanize.com/blog/kanban-system/
-- https://www.wrike.com/kanban-guide/kanban-principles-practices/
-- https://www.workamajig.com/blog/kanban-methodology-guide/core-kanban-priciples
 
 Aviam idees
 
