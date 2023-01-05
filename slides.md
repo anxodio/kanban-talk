@@ -81,9 +81,9 @@ Note:
 
 #### Change Management principles
 
-- Start With What You Do Now  <!-- .element: class="fragment highlight-current-blue" -->
-- Agree to Pursue Incremental, Evolutionary Change  <!-- .element: class="fragment highlight-current-blue" -->
-- Encourage Acts of Leadership at All Levels  <!-- .element: class="fragment highlight-current-blue" -->
+- Start With What You Do Now <!-- .element: class="fragment highlight-current-blue" -->
+- Agree to Pursue Incremental, Evolutionary Change <!-- .element: class="fragment highlight-current-blue" -->
+- Encourage Acts of Leadership at All Levels <!-- .element: class="fragment highlight-current-blue" -->
 
 
 Note:
@@ -97,9 +97,9 @@ Note:
 
 #### Service Delivery principles
 
-- Focus on Customer’s Needs and Expectations  <!-- .element: class="fragment highlight-current-blue" -->
-- Manage the Work, Not the Workers  <!-- .element: class="fragment highlight-current-blue" -->
-- Regularly Review the Network of Services  <!-- .element: class="fragment highlight-current-blue" -->
+- Focus on Customer’s Needs and Expectations <!-- .element: class="fragment highlight-current-blue" -->
+- Manage the Work, Not the Workers <!-- .element: class="fragment highlight-current-blue" -->
+- Regularly Review the Network of Services <!-- .element: class="fragment highlight-current-blue" -->
 
 
 Note:
@@ -126,14 +126,70 @@ Note:
 
 ---
 
-### WIP
+#### 1. Visualize Workflow
 
-Aviam idees
+![Kanban board](img/simple-board.png)
 
-- D'on ve kanban (japo 1940, manufacturar...)
-- Resignifiació de Kanban al sXXI dins de les metodologies Agils (Anderson?)
-- Que no es (només) kanban (no es nomes panell, no es scrum simplificat...)
-- Que si es kanban super resumit?
-- Parlar de pull
-- Els principis (kanbanize)
-- Les practiques (video wip limit)
+Note:
+- El que ja coneixem, desde les 3 columnes més simples
+- Representar tasques en curs
+- També workflow i riscos (bloquejos, colls d'ampolla)
+
+
+---
+
+#### 2. Limit Work In Progress (WIP)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CostXs2p6r0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Note:
+- Molt lligat a pull system i a optimitzar flow
+- Sense WIP limits no hi ha Kanban
+- Canvis de context fan molt mal, acumular fa que tot el sistema vagi més a poc a poc
+
+---
+
+#### 3. Manage flow
+
+![Kanban swimlanes](img/swimlanes.png)
+
+Note:
+- Volem otimitzar lead time i cycle time a traves de manage flow
+- Per canviar com es comporta el sistema canviem el flow no micromanagemnt
+- Exemples bloquejos, swimlanes, més columnes, queue columns...
+
+
+---
+
+#### 4. Make policies explicit
+
+- All team is in the same page
+- More rational discussions of issues, rules...
+- Easier to change
+- Easier onboarding
+
+Note:
+Per policies diem limits, quan es passa una columna, DoD, DoR, quan es bloqueja, on van les noves tasques... tot.
+
+---
+
+#### 5. Implement Feedback Loops
+
+![Kanban Cadences](img/kanban-cadences.png)
+
+
+Note:
+- Diferents punts que proposa kanban (alguns retro deconstruida)
+- Feedback loops de equip i de servei
+- Tenir en compte també feedback loops de producte (tasques, iniciatives...)
+
+---
+
+#### 6. Improve Collaboratively, Improve Experimentally
+
+- Lalala
+
+
+Note:
+- Lalalala
+
