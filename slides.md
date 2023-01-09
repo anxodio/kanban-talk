@@ -13,6 +13,16 @@ Apuntar en una pissarra per al final repassar-ho
 
 ---
 
+![Highway with traffic](img/highway.jpg)
+
+Note:
+- Quant trigues en anar a la feina? Depèn. Del moment, del carril, de mil coses
+- Posar més cotxes o més carrils no té perque millorar el transit
+- Sistema complex, hem de treballar per acció reacció (no complicat, complex)
+- Kanban ens ajuda a controlar el sistema i fer-lo predible, però cal que sigui estable
+
+---
+
 ### A bit of history
 
 ![Toyota kanban](img/toyota.png)
@@ -20,7 +30,7 @@ Apuntar en una pissarra per al final repassar-ho
 Note:
 
 - Visual board en japones
-- Toyota al 1940, just in time i pull, no waste
+- Toyota al 1940, just in time, pull, no waste
 - Lligat a Lean manufacturing, minimitzar perdues i maximitzar valor
 
 ---
@@ -63,7 +73,7 @@ Comencem a parlar del Kanban que ens interessa
 - This is opossed to time-based approach like Scrum
 
 Note:
-Optimize flow not resources, getting things done, reduce waste, improve value
+Optimize flow not resources, getting things done, start finishing stop starting, reduce waste, improve value
 
 ---
 
@@ -157,6 +167,7 @@ Note:
 - Volem otimitzar lead time i cycle time a traves de manage flow
 - Per canviar com es comporta el sistema canviem el flow no micromanagemnt
 - Exemples bloquejos, swimlanes, més columnes, queue columns...
+- Tasques petites, comenençar per la dreta, eliminar bloquejos ràpid...
 
 
 ---
@@ -196,13 +207,31 @@ Note:
 - L'equip està a la mateixa pàgina perquè te clar el workflow, policies, tasques, bloquejos... per tant afegir canvis petits hauria de mantenir el sistema estable i es fàcil que tothom estigui d'acord.
 - Fem servir info que tenim per plantejar hipotesis i provar coses (mètode cientific)
 
+---
+
+### Kanban metrics
+
+![Kanban Metrics Board](img/kanban-metrics-board.png) <!-- .element: style="width:75%;" -->
+
+Note:
+Cycle time dins el WIP, thoughput una altre forma de veure el mateix, lead time des de que es demana, response time desde que es demana fins que entra al sistema
+
+---
+
+### Kanban metrics
+
+![Kanban Metrics](img/kanban-metrics.png)
+
+Note:
+Parlar de probabilitat (85% targetes triguen 5 dies o menys), predictibilitat, monte carlo, etc.
+
 
 ---
 ### 🎮 Interaction time 🎮
 
 #### What new thing you learned about Kanban?
 
-##### You would change your initial definition now? 🤔
+##### Would you change your initial definition now? 🤔
 
 ---
 
