@@ -187,9 +187,27 @@ Note:
 
 #### 6. Improve Collaboratively, Improve Experimentally
 
-- Lalala
+- Small changes agreed with the team
+- Team is in the same page -> minimal friction
+- Based on proven methods, feedback, metrics...
 
 
 Note:
-- Lalalala
+- L'equip està a la mateixa pàgina perquè te clar el workflow, policies, tasques, bloquejos... per tant afegir canvis petits hauria de mantenir el sistema estable i es fàcil que tothom estigui d'acord.
+- Fem servir info que tenim per plantejar hipotesis i provar coses (mètode cientific)
 
+
+---
+### 🎮 Interaction time 🎮
+
+#### What new thing you learned about Kanban?
+
+##### You would change your initial definition now? 🤔
+
+---
+
+## Questions ❓
+
+---
+
+## Thank you 😊
