@@ -142,7 +142,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CostXs2p6r0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <aside class="notes"><ul>
-<li>Molt lligat a pull system i a optimitzar flow</li>
+<li>Molt lligat a pull system i a optimitzar flow no recursos</li>
 <li>Sense WIP limits no hi ha Kanban</li>
 <li>Canvis de context fan molt mal, acumular fa que tot el sistema vagi més a poc a poc</li>
 </ul>
@@ -190,17 +190,58 @@
 <li>Fem servir info que tenim per plantejar hipotesis i provar coses (mètode cientific)</li>
 </ul>
 </aside></script></section><section  data-markdown><script type="text/template">
-### Kanban metrics
+## Kanban metrics and predictability
+
+<aside class="notes"><p>Les metriques ens serveixen tant per millorar el procés com per aconseguir predictibilitat</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+### Basic kanban metrics
 
 ![Kanban Metrics Board](img/kanban-metrics-board.png) <!-- .element: style="width:75%;" -->
 
 <aside class="notes"><p>Cycle time dins el WIP, thoughput una altre forma de veure el mateix, lead time des de que es demana, response time desde que es demana fins que entra al sistema</p>
 </aside></script></section><section  data-markdown><script type="text/template">
-### Kanban metrics
+### Cumulative Flow Diagram
 
-![Kanban Metrics](img/kanban-metrics.png)
+![Cumulative Flow Diagram](img/kanban-cumulative-flow.png)
 
-<aside class="notes"><p>Parlar de probabilitat (85% targetes triguen 5 dies o menys), predictibilitat, monte carlo, etc.</p>
+<aside class="notes"><p>Ens ajuda a entendre com funciona el sistema d&#39;una vista ràpida</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+### Throughput run chart
+
+
+![Throughput run chart](img/throughput-run.png)
+
+<aside class="notes"><p>Quantes coses pot entregar l&#39;equip per dia, setmana...</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+### Cycle time scatterplot
+
+![Cycle time scatterplot](img/cycle-time-scatter.png) <!-- .element: style="width:75%;" -->
+
+<aside class="notes"><p>Introduir la forma en la que kanban fa servir la probabilitat</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+### Wip run chart
+
+![Wip run chart](img/wip-run.png)
+
+<aside class="notes"><p>Quant WIP acumula l&#39;equip, ens pot servir per veure com afecta a altres mètriques</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+### Blocker clustering
+
+![Blocker clustering](img/blocker-clustering.png) <!-- .element: style="width:75%;" -->
+
+<aside class="notes"><p>Necessites bon flow managing (3). Entendre quins bloquejos té l&#39;equip per prioritzar que resoldre</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+### Monte Carlo: How many
+
+![Monte Carlo: How many](img/montecarlo-how-many.png)
+
+<aside class="notes"><p>Amb X probabilitat quantes tasques haurà fet l&#39;equip X dia.</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+### Monte Carlo: When
+
+![Monte Carlo: When](img/montecarlo-when.png)
+
+<aside class="notes"><p>Amb X probabilitat quin dia entregarà l&#39;equip X tasques.</p>
 </aside></script></section><section  data-markdown><script type="text/template">### 🎮 Interaction time 🎮
 
 #### What new thing you learned about Kanban?
