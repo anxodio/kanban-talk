@@ -153,7 +153,7 @@ Note:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CostXs2p6r0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Note:
-- Molt lligat a pull system i a optimitzar flow
+- Molt lligat a pull system i a optimitzar flow no recursos
 - Sense WIP limits no hi ha Kanban
 - Canvis de context fan molt mal, acumular fa que tot el sistema vagi més a poc a poc
 
@@ -209,7 +209,14 @@ Note:
 
 ---
 
-### Kanban metrics
+## Kanban metrics and predictability
+
+Note:
+Les metriques ens serveixen tant per millorar el procés com per aconseguir predictibilitat
+
+---
+
+### Basic kanban metrics
 
 ![Kanban Metrics Board](img/kanban-metrics-board.png) <!-- .element: style="width:75%;" -->
 
@@ -218,13 +225,68 @@ Cycle time dins el WIP, thoughput una altre forma de veure el mateix, lead time 
 
 ---
 
-### Kanban metrics
+### Cumulative Flow Diagram
 
-![Kanban Metrics](img/kanban-metrics.png)
+![Cumulative Flow Diagram](img/kanban-cumulative-flow.png)
 
 Note:
-Parlar de probabilitat (85% targetes triguen 5 dies o menys), predictibilitat, monte carlo, etc.
+Ens ajuda a entendre com funciona el sistema d'una vista ràpida
 
+---
+
+### Throughput run chart
+
+
+![Throughput run chart](img/throughput-run.png)
+
+Note:
+Quantes coses pot entregar l'equip per dia, setmana...
+
+---
+
+### Cycle time scatterplot
+
+![Cycle time scatterplot](img/cycle-time-scatter.png) <!-- .element: style="width:75%;" -->
+
+Note:
+Introduir la forma en la que kanban fa servir la probabilitat
+
+---
+
+### Wip run chart
+
+![Wip run chart](img/wip-run.png)
+
+Note:
+Quant WIP acumula l'equip, ens pot servir per veure com afecta a altres mètriques
+
+---
+
+### Blocker clustering
+
+![Blocker clustering](img/blocker-clustering.png) <!-- .element: style="width:75%;" -->
+
+Note:
+Necessites bon flow managing (3). Entendre quins bloquejos té l'equip per prioritzar que resoldre
+
+
+---
+
+### Monte Carlo: How many
+
+![Monte Carlo: How many](img/montecarlo-how-many.png)
+
+Note:
+Amb X probabilitat quantes tasques haurà fet l'equip X dia.
+
+---
+
+### Monte Carlo: When
+
+![Monte Carlo: When](img/montecarlo-when.png)
+
+Note:
+Amb X probabilitat quin dia entregarà l'equip X tasques.
 
 ---
 ### 🎮 Interaction time 🎮
