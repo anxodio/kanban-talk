@@ -289,15 +289,16 @@ Note:
 Amb X probabilitat quin dia entregarà l'equip X tasques.
 
 ---
+
+## Questions ❓
+
+---
+
 ### 🎮 Interaction time 🎮
 
 #### What new thing you learned about Kanban?
 
 ##### Would you change your initial definition now? 🤔
-
----
-
-## Questions ❓
 
 ---
 
